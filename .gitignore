@@ -1,6 +1,6 @@
 *.DS_Store
 *.git
 *.csv
-*.ipynb_checkpoints
+# *.ipynb_checkpoints
 *.zip
 
